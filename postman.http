@@ -1,0 +1,4 @@
+GET api.giphy.com/v1/gifs/search
+?api_key=mwuyQ2N93RY8sftl8bPtuArUotpkJPmk
+&q=marvel
+&limit=10
